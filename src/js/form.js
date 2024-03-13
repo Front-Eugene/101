@@ -136,8 +136,8 @@ function checkInputValues() {
     }
 
     phoneInput.addEventListener('keydown', function(event) {
-      if (event.key.match(/[a-z]/i) && event.key !== 'Backspace') {
-        event.preventDefault(''); // Prevent typing any letters except Backspace
+      if (event.key.match(/[a-zа-я]/i) && event.key !== 'Backspace') {
+        event.preventDefault(); // Prevent typing any letters except Backspace
       }
     });
   
