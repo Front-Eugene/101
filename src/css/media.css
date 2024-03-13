@@ -569,14 +569,16 @@
 
     /* КОТАКТЫ */
 
-    /* .form-message textarea {
+    .form-message textarea {
+        height: 80%;
         margin-top: 8px;
-    } */
+        margin-left: -1px;
+    }
 
     /* TUT */
-    .form-message textarea {
+    /* .form-message textarea {
         margin-top: 14px;
-    }
+    } */
     /* TUT */
 
     .form {
@@ -621,13 +623,10 @@
     }
 
     .form-item input {
-        margin: 25px 0 0px 0;
+        width: 99.8%;
+        margin: 10px 0 0px 0;
     }
     /* TUT */
-
-    /* .form-item input {
-        margin: 8px 0 18px 0;
-    } */
 
     .form-message {
         width: 100%;

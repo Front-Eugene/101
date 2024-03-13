@@ -1138,7 +1138,7 @@ nav {
     }
 
     /* TUT */
-    .comment {
+    /* .comment {
         display: block;
         position: absolute;
         top: 0;
@@ -1148,7 +1148,7 @@ nav {
         width: 95%;
         background: #fff;
         z-index: 60;
-    }
+    } */
     /* TUT */
 
     .form-title {
@@ -1228,12 +1228,12 @@ nav {
     }
 
     /* TUT */
-    .label-wrap {
+    /* .label-wrap {
         height: 100%;
         width: 99.9%;
         position: absolute;
         z-index: 50;
-    }
+    } */
     /* TUT */
 
     label div {
@@ -1355,7 +1355,7 @@ nav {
 
     .form-message textarea {
         font-family: 'TildaSansMedium';
-        height: 90%;
+        height: 82%;
         font-weight: 500;
         margin: 12px 0 10px 0;
         padding: 0 35px 0 0;
@@ -1366,7 +1366,7 @@ nav {
     }
 
     /* TUT */
-    .form-message textarea {
+    /* .form-message textarea {
         position: absolute;
         top: 0px;
         left: 0;
@@ -1374,7 +1374,7 @@ nav {
         margin: 13px 0 10px 0;
         padding: 30px 35px 0 20px;
         z-index: 50;
-    }
+    } */
     /* TUT */
 
     textarea::-webkit-scrollbar {
@@ -1482,7 +1482,7 @@ nav {
     .form-item input {
         width: 99.9%;
         border: none;
-        margin: 8px 0px 0px;
+        margin: 8px 0px 0 -1px;
         font-family: 'TildaSansMedium';
         font-size: 16px;
         line-height: 19.2px;
@@ -1490,14 +1490,14 @@ nav {
     }
 
     /* TUT */
-    .form-item input {
+    /* .form-item input {
         width: 99.9%;
         height: 100%;
         border: none;
         margin: 25px 0px 0px;
         z-index: 100;
         background: #00000000
-    }
+    } */
     /* TUT */
 
     .border-color {
