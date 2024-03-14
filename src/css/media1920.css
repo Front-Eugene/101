@@ -45,10 +45,7 @@
     /* FORM */
 
     .form-title {
-        margin: 128px 0 0 0;
-        /* font-size: 48px;
-        letter-spacing: 2px;
-        color: #1C2818; */
+        margin: 128px 0 0 -31px;
     }
 
     .form-title h2 {

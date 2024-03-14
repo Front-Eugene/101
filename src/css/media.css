@@ -20,7 +20,7 @@
 
     .burgrer-menu-active {
         opacity: 1;
-        z-index: 100;
+        z-index: 500;
     }
 
     .burgrer-wrap {
@@ -504,7 +504,9 @@
     }
 
     .politics-text-wrap {
-        padding: 90px 28px 20px 28px;
+        margin: -128px 0 0 0;
+        padding: 0 28px 20px 28px;
+        z-index: 100;
     }
 
     .question-text-wrap h2 {
@@ -547,6 +549,7 @@
         margin: 0;
         padding: 44px 0 0 0;
         margin: 0 0 0 28px;
+        margin: 0;
         border-bottom: 1px solid #AEC7B8;
     }
 
@@ -562,8 +565,8 @@
     .politics-wrap h1 {
         width: 319px;
         font-size: 24px;
-        padding: 0 0 28px 0;
-    }
+        padding: 215px 0 28px 0;
+    }        
 
     /* ПОЛИТИКА КОНФ */
 
@@ -669,6 +672,7 @@
     }
 
     .agree-list-wrap {
+        margin: -20px 0 0 0;
         flex-direction: column-reverse;
     }
     
